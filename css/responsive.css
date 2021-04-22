@@ -1,0 +1,127 @@
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) { 
+	/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) { 
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+.box{
+	width:55%;
+	height:240px;
+	margin-left:25%;
+	margin-top:20%;
+	background-color:#f3eff0;
+	background-color:#f3eff0;
+
+	
+ 
+}
+.left-site{
+	width:99%;
+	height:250px;
+	background-image:radial-gradient(#d5b669,#aa8f46);
+	border-bottom-right-radius:150px;
+	border-top-right-radius:150px;
+
+}
+.logo-section{
+	width:40%;
+	height:175px;
+	margin-left:26%;
+	background-color:#101048;
+	border-bottom-right-radius:75px;
+	border-bottom-left-radius:75px;
+
+}
+img{
+	width:156.5%;
+	height:1.4%px;
+	margin-right:2%x;
+	margin-top:46.3%;
+	margin-left:-27.9%;
+}
+span{
+	margin-right:8px
+}
+.write{
+	margin-left:1px;
+	margin-top:15px;}
+.company{
+	font-size:17px;
+	line-height:1px;
+	color:#1c1737
+}
+.cp{
+	margin-left:54px;
+	font-size:12px;
+	line-height:6px;
+	letter-spacing:2px;
+	color:#1b154a;
+
+}
+.jani{
+	margin-left:8px;
+}
+.right-site{
+background-image:url(../logo/logo2.png);
+ background-repeat:no-repeat;
+background-size:358px,300px;
+background-color:#f3eff0;
+background-image-color:red;
+height:240px;
+
+}
+.write-site{
+	margin-left:20px;
+	
+
+
+}
+.other{
+	margin-top:75px;
+	font-size:32px;
+	color:#18186b;
+	border-bottom:2px solid #e5d3aa;
+	margin-left:15px;
+}
+.other1{
+	margin-top:40px;
+	font-size:19px;
+	color:#0a0a80;
+	line-height:20px;
+	margin-right:5px;
+	margin-left:15px;
+	font-family:Arial Narrow, sans-serif;
+
+}
+.other2{
+	color:#0a0a80;
+	line-height:1px;
+	font-size:19px;
+	margin-left:15px;
+	font-family:Arial Narrow, sans-serif;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px)
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+	.my-card {
+		margin-top: 15px;
+	}
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }

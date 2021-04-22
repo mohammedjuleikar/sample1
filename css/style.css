@@ -1,0 +1,155 @@
+*{margin:0;
+    padding:0}
+
+.box{
+	width:63%;
+	height:300px;
+	margin-left:25%;
+	margin-top:20%;
+background-color:#f3eff0;
+
+	
+ 
+}
+.left-site{
+	width:99%;
+	height:300px;
+	background-image:radial-gradient(#d5b669,#aa8f46);
+	border-bottom-right-radius:150px;
+	border-top-right-radius:150px;
+
+}
+.logo-section{
+	width:36%;
+	height:204px;
+	margin-left:26%;
+	background-color:#101048;
+	border-bottom-right-radius:91px;
+	border-bottom-left-radius:91px;
+
+}
+img{
+	width:156.5%;
+	height:1.4%px;
+	margin-right:2%x;
+	margin-top:34.3%;
+	margin-left:-27.9%;
+}
+.logo{
+	width:156.5%;
+	height:1.4%px;
+	margin-right:2%x;
+	margin-top:40.3%;
+	margin-left:-27.9%;
+}
+span{
+	margin-right:8px
+}
+.write{
+	margin-left:1px;
+	margin-top:15px;}
+.company{
+	font-size:21px;
+	line-height:12px;
+	color:#1c1737;
+	font-family:Gill Sans, sans-serif;
+	margin-top:10px
+}
+.cp{
+	margin-left:54px;
+	font-size:16px;
+	line-height:6px;
+	letter-spacing:2px;
+	color:#1b154a;
+	font-family:arial;
+
+}
+.jani{
+	margin-left:8px
+}
+.right-site{
+background-image:url(../logo/logo2.png);
+ background-repeat:no-repeat;
+background-size:551px,300px;
+background-color:#f3eff0;
+background-image-color:red;
+height:300px;
+
+}
+.write-site{
+	margin-left:20px;
+	
+
+
+}
+.other{
+	margin-top:90px;
+	font-size:32px;
+	color:#18186b;
+	border-bottom:2px solid #e5d3aa;
+	margin-left:15px;
+}
+.other1{
+	margin-top:40px;
+	font-size:19px;
+	color:#373748;
+	line-height:20px;
+	margin-right:5px;
+	margin-left:57px;
+	font-family:Helvetica, sans-serif;
+	letter-spacing:1px;
+
+}
+.other11{margin-top:64px;
+	font-size:19px;
+	color:#373748;
+	line-height:20px;
+	margin-right:5px;
+	margin-left:57px;
+	font-family:Helvetica, sans-serif;
+	letter-spacing:1px;
+}
+.other2{
+	color:#373748;
+	line-height:1px;
+	font-size:19px;
+	margin-left:57px;
+	font-family:Helvetica, sans-serif;
+}
+.other22{
+	margin-top:94px;
+	font-size:28px;
+	color:#18186b;
+	border-bottom:2px solid #e5d3aa;
+	margin-left:56px;
+	line-height:61px;
+	font-family:arial;
+	margin-bottom:10px
+}
+.other223{
+	margin-top:110px;
+	font-size:28px;
+	color:#18186b;
+	border-bottom:2px solid #e5d3aa;
+	margin-left:56px;
+	line-height:33px;
+	font-family:arial;
+	margin-bottom:10px
+}
+.write-site22{
+	margin-left:20px;}
+.ceoman{
+	font-size:20px;
+	color:#18186b;
+	line-height:1px
+}
+.other11 a{
+	color:#55407d;
+}
+.other2 a{ color:#55407d }
+.ceoman{
+	line-height:1px;
+	margin-bottom:2px;
+	color:#636371;
+}
+.other1 a{  color:#55407d}
